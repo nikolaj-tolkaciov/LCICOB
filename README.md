@@ -10,6 +10,7 @@
 
 
 
+
 ## Leadership
 ### Level 1: Onboarding
 * Caring for other
@@ -49,6 +50,8 @@
 * Have a long term direction and onboard your team to travel with you to the same goal
 
 
+
+
 ## Coding
 ### Level 1: Be proficient in API
 * Know where is web browsers, mobile apps and server-side boundaries
@@ -82,6 +85,8 @@
 * Knowing enough to be able to pinpoint problems and prioritize them
 * Able to spot shortcomings and how to overcome them
 * Having enough knowledge to provide arguments for decisions
+
+
 
 
 ## Initiative
@@ -129,6 +134,8 @@
 * Example: Creating new department
 
 
+
+
 ## Communication
 ### Level 1: Communicate within a team
 * If you have an opinion you should be able to share it with your team
@@ -162,6 +169,8 @@
 * Is aware of the audience fears and anxieties and address them
 * Can spot common goal and create a believable path to get there
 * Can be confident in the plan even if it have a small chance, but it is a best one there is
+
+
 
 
 ## Ownership
@@ -203,6 +212,8 @@
 * You are proud to wear swag of that organization
 
 
+
+
 ## Business
 ### Level 1: Prioritization
 * You can tell which feature is more important
@@ -234,6 +245,8 @@
 * What is the expected ROI on each invested euro
 * Can we grow in current economic and geopolitical situation
 * Product-market fit, market saturation, PCM, CAC, EBITDA
+
+
 
 
 # Footnote
