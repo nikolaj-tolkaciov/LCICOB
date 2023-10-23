@@ -1,6 +1,6 @@
 # LCICOB model
 ## Self assessment table
-| | Leadership | Coding | Initiative | Communication | Ownership | Business|
+| test | Leadership | Coding | Initiative | Communication | Ownership | Business|
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |LVL 1 | Onboarding | API | Curiosity for new initiatives | Within a team | For your artifacts | Prioritization|
 | --- | --- | --- | --- | --- | --- | --- | --- |
