@@ -1,6 +1,6 @@
 # LCICOB model
 ## Self assessment table
-| t | Leadership | Coding | Initiative | Communication | Ownership | Business |
+| test | Leadership | Coding | Initiative | Communication | Ownership | Business |
 |LVL 1 | Onboarding | API | Curiosity for new initiatives | Within a team | For your artifacts | Prioritization |
 |LVL 2 | Mentoring | Automation | Taking initiatives | Write good documentation | For team artifacts | Calculating cost |
 |LVL 3 | Team Lead | Reading Code | Proposing initiatives | In front of the audience | For department artifacts | Cost of refactoring and automation |
